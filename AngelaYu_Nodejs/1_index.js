@@ -8,5 +8,3 @@ console.log(" Hell0 world !")
 // to exit from that repl press ctrl+c 2 times
 
 // clear will clear all the commands that has been run
-
-
